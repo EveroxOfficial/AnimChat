@@ -1,4 +1,4 @@
-package com.yourname.animchat;
+package com.Itzz_Everox.animchat;
 
 import me.clip.placeholderapi.expansion.PlaceholderExpansion;
 import net.kyori.adventure.text.minimessage.MiniMessage;
