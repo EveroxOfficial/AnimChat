@@ -1,0 +1,11 @@
+name: AnimChat
+version: 1.0.0
+main: com.Itzz_Everox.animchat.AnimChat
+api-version: '1.21'
+author: Itzz_Everox
+description: Premium animated gradient chat formatting expansion using PlaceholderAPI hooks.
+softdepend: [PlaceholderAPI]
+permissions:
+  animchat.use:
+    description: Allows use of the gradient font placeholder system.
+    default: op
