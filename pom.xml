@@ -17,11 +17,11 @@
 
     <repositories>
         <repository>
-            <id>papermc</id>
+            <id>papermc-repo</id>
             <url>https://papermc.io</url>
         </repository>
         <repository>
-            <id>placeholderapi</id>
+            <id>placeholderapi-repo</id>
             <url>https://extendedclip.com</url>
         </repository>
     </repositories>
