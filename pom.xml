@@ -2,7 +2,7 @@
          xmlns:xsi="http://w3.org" 
          xsi:schemaLocation="http://apache.org http://apache.org">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.yourname</groupId>
+    <groupId>com.Itzz_Everox</groupId>
     <artifactId>animchat</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
